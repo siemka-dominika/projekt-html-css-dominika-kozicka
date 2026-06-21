@@ -26,3 +26,17 @@ main {
     padding: 15px;
     margin: 10px;
 }
+main {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 220px;
+    background: white;
+}
