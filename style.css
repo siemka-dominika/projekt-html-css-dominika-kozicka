@@ -17,3 +17,12 @@ nav ul {
     margin: 0;
     background: #eee;
 }
+main {
+    padding: 20px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+}
